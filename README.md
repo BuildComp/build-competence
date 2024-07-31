@@ -2,9 +2,7 @@
 
 <p align="center">
  Cronograma de Desenvolvimento de Competências
-<p align="center">
-
-
+</p>
 
 ## Junior
 
@@ -15,6 +13,9 @@
 - [ ] Dá manutenção na API (não projeta)
 - [ ] Faz manutenção nos Design Patterns
 - [ ] Conhece SOLID (faz manutenção)
+- [ ] Conhece Swagger Open API
+- [ ] Conhece Maven ou Gradle (opcional)
+- [ ] Conhece Spring Injeção de Dependência
 
 | Dia      | Atividade                                   |
 |----------|---------------------------------------------|
@@ -27,8 +28,10 @@
 | Domingo  | Conhecimento em SOLID (faz manutenção)      |
 | Segunda  | Versionamento de Código (Git)               |
 | Terça    | Testes Unitários                            |
-| Quarta   | Documentação de API                         |
+| Quarta   | Documentação de API (Swagger Open API)      |
 | Quinta   | Monitoramento Básico                        |
+| Sexta    | Ferramenta de Build (Maven ou Gradle) (opcional) |
+| Sábado   | Spring Injeção de Dependência               |
 
 ## Pleno
 
@@ -43,6 +46,9 @@
 - [ ] Implementa Design Patterns
 - [ ] Sabe observar a aplicação (gargalos, latência), (ferramentas de observabilidade)
 - [ ] Domina SOLID (implementa)
+- [ ] Domina Swagger Open API
+- [ ] Domina Maven ou Gradle (opcional)
+- [ ] Domina Spring Injeção de Dependência
 
 | Dia      | Atividade                                                            |
 |----------|----------------------------------------------------------------------|
@@ -57,7 +63,9 @@
 | Terça    | Segurança em Microservices                                           |
 | Quarta   | Integração Contínua/Entrega Contínua (CI/CD) Avançada                |
 | Quinta   | Arquitetura de Sistemas Distribuídos                                 |
-
+| Sexta    | Documentação de API (Swagger Open API)                               |
+| Sábado   | Ferramenta de Build (Maven ou Gradle) (opcional)                     |
+| Domingo  | Spring Injeção de Dependência                                        |
 
 ### Detalhamento das Atividades - Junior/Pleno
 
@@ -100,7 +108,7 @@
 
 ### Estudos Complementares
 
-- Sólidos conhecimentos Spring Boot +Security, Stackspot, SonarQube, Git, Jenkins; 
+- Sólidos conhecimentos Spring Boot +Security, SonarQube, Git, Jenkins; 
 
 - Prática com Arquitetura Hexagonal e outras abordagens de design arquitetônico. 
 
@@ -111,6 +119,11 @@ VPC, Subnet, Secrets Manager, AWS CloudWatch, TargetGroup, TerraForm e CloudFron
 LoadBalancers, EC2, S3, RDS, DynamoDB, SNS, SQS, Glue, Lambda, etc.; 
 
 - Sistemas de mensageria
+
+## Exercicios
+|#	| SUBJECT							                          | LANGUAGE	 |DURATION		|EXPERIENCE	|               STATUS						 | ATTAINED LEVEL	 |
+|:-:|:----------------------------------------|:---------:|--:			|--:		|---------------------------:|:----------------|
+|00	| [Gerador Ingressos](./exercicios/01)			 |  java		   |-				|0 XP		|                         ✅	 | level 1 	       |
 # Comunidade
 
 - Temos um servidor no Discord! [![Discord](https://img.shields.io/discord/866378348368625704.svg?label=&logo=discord&logoColor=ffffff&color=7389D8&labelColor=6A7EC2)](https://discord.gg/GFrFRUt6wa) Nele pode encontrar e interagir com outros estudantes. Por que não se apresenta lá agora mesmo? [Vem para o Discord](https://discord.gg/GFrFRUt6wa).
